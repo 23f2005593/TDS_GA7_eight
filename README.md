@@ -1,6 +1,6 @@
 # Quarterly Performance Analysis - Q2 2025 Data Story
 
-**📧 Analysis by:** 22f1000662@ds.study.iitm.ac.in  
+**📧 Analysis by:** 23f2005593@ds.study.iitm.ac.in  
 **📅 Report Date:** August 17, 2025  
 **🎯 Target Performance Score:** 15.0  
 **🤖 Generated with:** LLM/AI assistance for comprehensive data analysis  
@@ -18,7 +18,7 @@ This comprehensive analysis examines our quarterly performance metrics from Q1 2
 
 | Metric | Current Value | Target | Gap |
 |--------|---------------|--------|-----|
-| **Average Performance Score** | **6.36** | 15.0 | 8.64 |
+| **Average Performance Score** | **5.92** | 15.0 | 8.64 |
 | Latest Quarter Score (Q2 2025) | 6.10 | 15.0 | 8.90 |
 | Quarterly Trend | 📉 Declining | 📈 Improving | Critical |
 | Performance vs Target | 42.4% | 100% | -57.6% |
@@ -163,3 +163,4 @@ The analysis clearly shows that we must **expand into new market segments** to a
 **🎯 Target Achievement:** With focused execution of market expansion strategy, we project achieving 90-97% of our target performance score of 15.0 within 6 months.
 
 **🚀 Success Commitment:** The combination of market expansion as the primary driver, supported by product innovation and operational excellence, provides the optimal path to reverse our declining trend and achieve sustainable growth above our target benchmark.**
+
